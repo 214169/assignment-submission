@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2887aff6-9a9c-44bb-8d35-2c4ace782e6f" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="900">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="610">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="C:\Gradle\gradle-4.4.1" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.4.1" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="assignment-submission" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="assignment-submission" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit ReplatformingRemovingReadsFromFileSystem" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitReplatformingRemovingReadsFromFileSystem" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit CloudNativeWorkshopDistributedSystemWithServiceDiscovery" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitCloudNativeWorkshopDistributedSystemWithServiceDiscovery" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'assignment-submission'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit CloudNativeDeveloperSpringActuator" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitCloudNativeDeveloperSpringActuator" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit CloudNativeWorkshopSpringBootApp" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitCloudNativeWorkshopSpringBootApp" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit ModernizationConfigServer" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitModernizationConfigServer" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit ReplatformingManagingDataSources" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitReplatformingManagingDataSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit CloudNativeEvolutionMonolith" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitCloudNativeEvolutionMonolith" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit CloudNativeDeveloperDistributedSystemWithSecurity" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitCloudNativeDeveloperDistributedSystemWithSecurity" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit ReplatformingWorkshopTomeeBuildpack" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitReplatformingWorkshopTomeeBuildpack" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit ModernizationMultipleJars" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitModernizationMultipleJars" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'assignment-submission'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit DotnetCloudNativeDeveloperDistributedSystemWithSecurity" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitDotnetCloudNativeDeveloperDistributedSystemWithSecurity" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'assignment-submission'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit CloudNativeEvolutionServiceDiscovery" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitCloudNativeEvolutionServiceDiscovery" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit CloudNativeDeveloperCloudFoundry" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitCloudNativeDeveloperCloudFoundry" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit CloudNativeDeveloperSpringMvc" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitCloudNativeDeveloperSpringMvc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit ReplatformingSpringBootification" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitReplatformingSpringBootification" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit CloudNativeDeveloperDistributedSystemDeployment" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitCloudNativeDeveloperDistributedSystemDeployment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit CloudNativeDeveloperDistributedSystemWithConfigServer" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitCloudNativeDeveloperDistributedSystemWithConfigServer" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit CloudNativeDeveloperDistributedSystemWithServiceDiscovery" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitCloudNativeDeveloperDistributedSystemWithServiceDiscovery" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit CloudNativeDeveloperDatabaseMigrations" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitCloudNativeDeveloperDatabaseMigrations" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit CloudNativeDeveloperSpringBootApp" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitCloudNativeDeveloperSpringBootApp" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit ReplatformingRemoveInstanceSpecificState" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitReplatformingRemoveInstanceSpecificState" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'assignment-submission'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit CloudNativeDeveloperSpringJdbc" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitCloudNativeDeveloperSpringJdbc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit ModernizationServiceDiscovery" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitModernizationServiceDiscovery" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit ModernizationMicroservices" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitModernizationMicroservices" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit CloudNativeWorkshopDistributedSystem" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitCloudNativeWorkshopDistributedSystem" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit CloudNativeEvolutionDistributedConfiguration" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitCloudNativeEvolutionDistributedConfiguration" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit ModernizationMigrations" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitModernizationMigrations" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit CloudNativeDeveloperDistributedSystemWithCircuitBreaker" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitCloudNativeDeveloperDistributedSystemWithCircuitBreaker" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit ReplatformingBackgroundJobsWithDb" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitReplatformingBackgroundJobsWithDb" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'assignment-submission'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit ReplatformingLogging" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitReplatformingLogging" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit ModernizationCircuitBreaker" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitModernizationCircuitBreaker" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'assignment-submission'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit DotnetCloudNativeDeveloperDistributedSystemWithServiceDiscovery" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitDotnetCloudNativeDeveloperDistributedSystemWithServiceDiscovery" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'assignment-submission'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit ReplatformingStruts" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitReplatformingStruts" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit ModernizationSecurity" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitModernizationSecurity" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit ReplatformingWorkshopWiringServlet" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitReplatformingWorkshopWiringServlet" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit ReplatformingBackgroundJobsWithAmqp" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitReplatformingBackgroundJobsWithAmqp" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit CloudNativeDeveloperDistributedSystemWithLoadBalancing" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitCloudNativeDeveloperDistributedSystemWithLoadBalancing" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit TestAssignment" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitTestAssignment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit CloudNativeEvolutionSubscriptions" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitCloudNativeEvolutionSubscriptions" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit CloudNativeDeveloperPipelines" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitCloudNativeDeveloperPipelines" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit DotnetCloudNativeDeveloperDistributedSystemDeployment" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitDotnetCloudNativeDeveloperDistributedSystemDeployment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit ModernizationStrutsToSpring" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitModernizationStrutsToSpring" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit DotnetCloudNativeDeveloperDistributedSystemWithCircuitBreaker" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitDotnetCloudNativeDeveloperDistributedSystemWithCircuitBreaker" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit Prerequisites" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitPrerequisites" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit ReplatformingRemovingPersistenceToFileSystem" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitReplatformingRemovingPersistenceToFileSystem" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'assignment-submission'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit CloudNativeDeveloperConcourse" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitCloudNativeDeveloperConcourse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit DotnetCloudNativeDeveloperDistributedSystemWithConfigServer" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitDotnetCloudNativeDeveloperDistributedSystemWithConfigServer" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit CloudNativeDeveloperDistributedSystemWithZipkin" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitCloudNativeDeveloperDistributedSystemWithZipkin" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit ModernizationMavenToGradle" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitModernizationMavenToGradle" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Submit CloudNativeDeveloperSpringBasicAuth" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="submitCloudNativeDeveloperSpringBasicAuth" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'assignment-submission'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3032281856968" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="3079455020" />
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="1909947883" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.pivotal.pal.assignments/assignments-plugin/1.1.23/c2bfd1ac2caf880fd9f28f2e07763cc2cc4120af/assignments-plugin-1.1.23.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.3/9ce3451736c75af001cc62806f36c087d70c403b/kotlin-stdlib-1.1.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.3/e51ebc59da5103a2052859e89682c7f9c3456298/kotlin-stdlib-1.1.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.1.3/3597511f312a60c65776fd4946097820e2701e50/kotlin-reflect-1.1.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.1.3/bfc9458443666b1be1d66813f3a90a03afa30730/kotlin-reflect-1.1.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-support-jdk8/0.3/14c9bb4a3cce2d61453277dce5a2839470d29a9/kotlinx-support-jdk8-0.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-support-jdk8/0.3/5fe4a54228199cd21454469fb1e9ccc354c500a8/kotlinx-support-jdk8-0.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.gradle/gradle-script-kotlin/0.8.0/2a6cb5e0324c20832e9200f2a31a3e520ae65de/gradle-script-kotlin-0.8.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.6.1/58b35ae48da2e2d70ffd563dba5674e0dc8b0c97/assertj-core-3.6.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.6.1/2536dd8bc957490ef33873398869ba261d8c6fc3/assertj-core-3.6.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.pivotal.pal.assignments/assignment-submission/1.1.23/c845a482531d950d0f3464253deb1e45e50a423e/assignment-submission-1.1.23.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.pivotal.pal.assignments/assignments-cloud-native-developer/1.1.23/8e99a54177e4ab5ad0ae1d4cb2c7cf18bd999bb0/assignments-cloud-native-developer-1.1.23.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.pivotal.pal.assignments/assignments-cloud-native-evolution/1.1.23/5f981df8cb64a702b21a07dd3443dccb6903d3dd/assignments-cloud-native-evolution-1.1.23.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.pivotal.pal.assignments/assignments-modernization/1.1.23/8c9c056c8eab984f556f9b8b4eebf937038db9c1/assignments-modernization-1.1.23.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.pivotal.pal.assignments/assignments-replatforming/1.1.23/6d3692b784a0e841d17635618dbc6b139cb8d4b1/assignments-replatforming-1.1.23.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.pivotal.pal.assignments/assignments-replatforming-workshop/1.1.23/787513a23b239180b22da6f36b2867454b9bfb81/assignments-replatforming-workshop-1.1.23.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.pivotal.pal.assignments/assignments-prerequisites/1.1.23/49a7f781f0e3c6c13abab56968b599cd439c1921/assignments-prerequisites-1.1.23.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/5991ca87ef1fb5544943d9abc5a9a37583fabe03/annotations-13.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-support-jdk7/0.3/925cb7a8ebe8570e7def1292884603a084346d9b/kotlinx-support-jdk7-0.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-support-jdk7/0.3/3313e3973024cd6ca92c4b2a06fb3a7110743126/kotlinx-support-jdk7-0.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-all/2.4.7/467466f42be9d5bf1680cf71b5c4d31ad959dc36/groovy-all-2.4.7-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-all/2.4.7/c5371aaa20bcdca1175d9477fc0811f4fd99b68a/groovy-all-2.4.7.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.16/974c5dd98f38036bd98b3a8f7bf00ee0d91adbdd/slf4j-api-1.7.16-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.16/3a6274f658487d5bfff9af3862beff6da1e7fd52/slf4j-api-1.7.16.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/a00123f261762a7c5e0ec916a2c7c8298d29c400/javax.inject-1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.pivotal.pal.assignments/http-support/1.1.23/617edae7ab40f71c4ad9e4354fb880fb3f857400/http-support-1.1.23.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.pivotal.pal.assignments/assignment/1.1.23/30d5cd35bbb65912c2f883b291155bc4151e16c8/assignment-1.1.23.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/7ebc06b0cc7c2752a4883747e2c70b2b301df9c0/okhttp-3.6.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jayway.jsonpath/json-path/2.2.0/546dfa7cadacf40752c42bfd12af3b7a935920af/json-path-2.2.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jayway.jsonpath/json-path/2.2.0/22290d17944bd239fabf5ac69005a60a7ecbbbcb/json-path-2.2.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.8.7/1c4ce0c6d76f9fef808cc3c7b602219799a73d70/jackson-databind-2.8.7-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.8.7/6c3257ef458ac58a8da69a6dca3d2a15286d88c8/jackson-databind-2.8.7.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/46bdbd0e079883accbf581986e7f8f0d999a2637/okio-1.11.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.minidev/json-smart/2.2.1/fe70f8807c06ef9dd27b695830149c118010308f/json-smart-2.2.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.minidev/json-smart/2.2.1/5b9e5df7a62d1279b70dc882b041d249c4f0b002/json-smart-2.2.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.8.0/29a1a95363d497e856c0a7d682e4f7973e334068/jackson-annotations-2.8.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.8.0/45b426f7796b741035581a176744d91090e2e6fb/jackson-annotations-2.8.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.8.7/b7aa166b68d41d9e5aabf81d5783c61f773cefc7/jackson-core-2.8.7-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.8.7/8b46f39c78476fb848c81a49fa807a9e9506dddd/jackson-core-2.8.7.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.minidev/accessors-smart/1.1/b5c478091ad2bfd497758094b00936543393415b/accessors-smart-1.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.minidev/accessors-smart/1.1/a527213f2fea112a04c9bdf0ec0264e34104cd08/accessors-smart-1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/5.0.3/f0f24f6666c1a15c7e202e91610476bd4ce59368/asm-5.0.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/5.0.3/dcc2193db20e19e1feca8b1240dbbc4e190824fa/asm-5.0.3.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="assignment-submission" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/announce" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/antlr" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/base-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/base-services-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/build-cache" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/build-cache-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/build-comparison" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/build-init" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/build-option" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/cli" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/code-quality" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/composite-builds" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/core-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/dependency-management" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/diagnostics" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/ear" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/ide" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/ide-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/ide-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/installation-beacon" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/internal-android-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/internal-integ-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/internal-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/internal-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/ivy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/jacoco" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/javascript" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/jvm-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/language-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/language-java" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/language-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/language-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/language-scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/launcher" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/logging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/maven" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/messaging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/model-core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/model-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/osgi" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/persistent-cache" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/platform-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/platform-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/platform-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/platform-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/plugin-development" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/plugin-use" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/plugins" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/process-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/publish" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/reporting" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/resources" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/resources-gcs" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/resources-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/resources-s3" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/resources-sftp" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/signing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/test-kit" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/testing-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/testing-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/testing-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/tooling-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/tooling-api-builders" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/version-control" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/workers" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/src/wrapper" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/ant-1.9.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/ant-launcher-1.9.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/gradle-base-services-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/gradle-base-services-groovy-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/gradle-build-cache-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/gradle-build-option-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/gradle-cli-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/gradle-core-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/gradle-core-api-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/gradle-docs-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/gradle-installation-beacon-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/gradle-jvm-services-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/gradle-kotlin-dsl-0.13.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/gradle-kotlin-dsl-tooling-builders-0.13.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/gradle-kotlin-dsl-tooling-models-0.13.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/gradle-launcher-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/gradle-logging-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/gradle-messaging-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/gradle-model-core-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/gradle-model-groovy-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/gradle-native-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/gradle-persistent-cache-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/gradle-process-services-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/gradle-resources-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/gradle-runtime-api-info-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/gradle-tooling-api-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/gradle-wrapper-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/groovy-all-2.4.12.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-announce-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-antlr-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-build-cache-http-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-build-comparison-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-build-init-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-code-quality-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-composite-builds-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-dependency-management-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-diagnostics-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-ear-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-ide-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-ide-native-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-ide-play-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-ivy-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-jacoco-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-javascript-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-language-groovy-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-language-java-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-language-jvm-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-language-native-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-language-scala-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-maven-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-osgi-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-platform-base-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-platform-jvm-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-platform-native-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-platform-play-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-plugin-development-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-plugin-use-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-plugins-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-publish-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-reporting-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-resources-gcs-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-resources-http-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-resources-s3-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-resources-sftp-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-scala-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-signing-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-test-kit-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-testing-base-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-testing-jvm-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-testing-native-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-tooling-api-builders-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-version-control-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/gradle-workers-4.4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4.1-all/2kpyt0ea6hyxavvt21uml23gd/gradle-4.4.1/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/../pal-tracker" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../prerequisite-code" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/demo" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.gradle" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="24" />
+    <option name="width" value="3870" />
+    <option name="height" value="2055" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="assignment-submission" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment-submission" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2887aff6-9a9c-44bb-8d35-2c4ace782e6f" name="Default" comment="" />
+      <created>1516140674445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516140674445</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-18" y="-18" width="3876" height="2076" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.50104165" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32991454" sideWeight="0.49895832" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="FAQ Robot" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="610">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
